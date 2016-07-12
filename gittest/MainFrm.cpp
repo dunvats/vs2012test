@@ -1,7 +1,8 @@
 
 // MainFrm.cpp : implementation of the CMainFrame class
 //
-
+// Add comment
+// git
 #include "stdafx.h"
 #include "gittest.h"
 
